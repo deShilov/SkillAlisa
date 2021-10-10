@@ -1,0 +1,9 @@
+postgres:
+  host: '127.0.0.1'
+  port: 5432
+  database: 'shop'
+  user: 'postgres'
+  password: 'JoeSpaik7907228'
+  minsize: 1
+  maxsize: 32
+  oracle_data: False
